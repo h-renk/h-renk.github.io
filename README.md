@@ -44,16 +44,21 @@ It would be typical for a lesson to have 1-3 learning outcomes
 # Interconnection: (Verdana, 12 pt., Bold): 
 If the lesson is part of a series of lessons or activities include a list here with the titles to the other activities. (Verdana, 12 pt.) 
 
-# Assessment: (Verdana, 12 pt., Bold) This includes a brief description of any assessment activities used, formally or informally. Examples include Presentations, Projects, Writing Assignments, Observations, Walk around, Oral Questions, Labs, Other.  (Verdana, 12 pt.)
+# Assessment: (Verdana, 12 pt., Bold) 
+This includes a brief description of any assessment activities used, formally or informally. Examples include Presentations, Projects, Writing Assignments, Observations, Walk around, Oral Questions, Labs, Other.  (Verdana, 12 pt.)
 
-# Extension Activities: (Verdana, 12 pt., Bold) This includes a brief description of any follow-up activities used, formally or informally. (Verdana, 12 pt.)
+# Extension Activities: (Verdana, 12 pt., Bold) 
+This includes a brief description of any follow-up activities used, formally or informally. (Verdana, 12 pt.)
 
-# Differentiated Learning Opportunities: (Verdana, 12 pt., Bold) This includes a brief description of any differentiated learning activities used, formally or informally. Examples include more challenging activities for experienced students or adjusted activities for the novice learner. 
+# Differentiated Learning Opportunities: (Verdana, 12 pt., Bold) 
+This includes a brief description of any differentiated learning activities used, formally or informally. Examples include more challenging activities for experienced students or adjusted activities for the novice learner. 
 
 # Lesson 1 Details: (Verdana, 12pt. Bold).  For lesson 1, please describe:
 
-# Warm Up: (Verdana, 12 pt., Bold) Each module should include a task/activity/example to 1) gain attention, giving learners a stimulus to ensure reception of coming instruction and 2) stimulate recall of prior learning. Examples might include a reading exercises, real-life example, problem, puzzle, or questions (Verdana, 12 pt.)
+# Warm Up: (Verdana, 12 pt., Bold) 
+Each module should include a task/activity/example to 1) gain attention, giving learners a stimulus to ensure reception of coming instruction and 2) stimulate recall of prior learning. Examples might include a reading exercises, real-life example, problem, puzzle, or questions (Verdana, 12 pt.)
 
-# Lesson: (Verdana, 12 pt., Bold) The lesson material may be an expository or inquiry approach. An expository approach is where the material to be learned is described, defined, explained either in writing or orally. For this type of approach, include the title of the presentation.pptx, if appropriate, video, reading, etc. The inquiry approach may be guided, where the instructor has mapped out a plan for students to follow on their own, and the teacher acts a facilitator while students work through the instructions, lessons and examples that have been planned for them to discover. In contrast, free discovery is providing the materials and allowing students to experiment, and observe, and describe/explain what conclusions they have drawn from their experimentation, and to justify their conclusions, based upon their observations. 
+# Lesson: (Verdana, 12 pt., Bold) 
+The lesson material may be an expository or inquiry approach. An expository approach is where the material to be learned is described, defined, explained either in writing or orally. For this type of approach, include the title of the presentation.pptx, if appropriate, video, reading, etc. The inquiry approach may be guided, where the instructor has mapped out a plan for students to follow on their own, and the teacher acts a facilitator while students work through the instructions, lessons and examples that have been planned for them to discover. In contrast, free discovery is providing the materials and allowing students to experiment, and observe, and describe/explain what conclusions they have drawn from their experimentation, and to justify their conclusions, based upon their observations. 
 
 # If you have any additional instructor notes on files needed throughout the lecture, please include them here.  (Verdana, 12 pt.)
