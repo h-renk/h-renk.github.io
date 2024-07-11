@@ -1,4 +1,3 @@
-# h-renk.github.io
 # Lesson title (Cailibri, 26 pt)
 
 # Lesson Description: 
